@@ -55,7 +55,7 @@ atualmente atuo como **Assistente de Suporte de TI**, gerenciando infraestrutura
   <a href="https://www.instagram.com/math_augu/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://wa.me/5511999999999" target="_blank">
+  <a href="https://wa.me/5511960247759" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   <a href="https://matheusaugusto19.github.io/MeuPortfolio/" target="_blank">
